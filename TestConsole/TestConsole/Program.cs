@@ -12,5 +12,10 @@ namespace TestConsole
         {
             Console.WriteLine("test");
         }
+
+        private static void TestMethod() 
+        {
+            Console.WriteLine("test method");
+        }
     }
 }
